@@ -30,7 +30,7 @@ const Staff = () => {
                   <img
                     src={teacher.photo}
                     alt={teacher.name}
-                    className="w-full h-64 object-cover"
+                    className="w-full h-96 object-cover object-top"
                   />
                 </div>
                 <div className="p-6">

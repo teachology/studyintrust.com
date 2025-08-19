@@ -10,7 +10,11 @@ const Footer = () => {
           {/* Brand */}
           <div className="col-span-1 md:col-span-2">
             <div className="flex items-center space-x-2 mb-4">
-              <BookOpen className="h-8 w-8 text-blue-400" />
+              <img 
+                src="/Logo/Logo1.png"   // put your logo in public/Logo/Logo1.png
+                alt="Trust Logo"
+                className="h-14 w-auto"
+              />
               <span className="text-2xl font-bold">Trust</span>
             </div>
             <p className="text-gray-300 mb-4 max-w-md">

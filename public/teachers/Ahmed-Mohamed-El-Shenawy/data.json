@@ -1,0 +1,17 @@
+{
+  "name": "Ahmed Mohamed El-Shenawy",
+  "university": "Alexandria University",
+  "faculty": "Faculty of Science",
+  "experience": "23 years",
+  "courses": [
+    "American Diploma",
+    "SAT",
+    "ACT",
+    "AP",
+    "AB",
+    "IB",
+    "EST",
+    "EMSAT"
+  ],
+  "picture": "picture.jpeg"
+}

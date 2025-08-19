@@ -1,0 +1,14 @@
+{
+  "name": "Sally Nour",
+  "university": "Cairo University",
+  "faculty": "Faculty of Science - Biotechnology / Biomolecular Chemistry",
+  "experience": "15 years",
+  "courses": [
+    "ACT 2",
+    "AP Physics",
+    "Physics OL",
+    "AP Biology",
+    "Biology OL"
+  ],
+  "picture": "picture.jpeg"
+}

@@ -22,7 +22,11 @@ const Header = () => {
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
           <Link to="/" className="flex items-center space-x-2">
-            <BookOpen className="h-8 w-8 text-blue-600" />
+            <img 
+              src="/Logo/Logo1.png"   // put your logo file in public/Logo/Logo1.png
+              alt="Trust Logo" 
+              className="h-14 w-auto"
+            />
             <span className="text-2xl font-bold text-gray-900">Trust</span>
           </Link>
 
