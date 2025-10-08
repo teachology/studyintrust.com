@@ -14,7 +14,7 @@ export const teachers: Teacher[] = [
   {
     id: "Mohamed-El-Kahky",
     name: "Mohamed El Kahky",
-    subjects: ["SATو ACT SUBJECT TEST LEVEL1&2, EST SUBJECT TEST LEVEL 1&2, EST1, ACT1, AP CALCULUS AB, PRE CALCULUS, ALGEBRA 1 and 2"],
+    subjects: ["SAT", "ACT SUBJECT TEST LEVEL1&2", "EST SUBJECT TEST LEVEL 1&2", "EST1", "ACT1", "AP CALCULUS AB", "PRE CALCULUS", "ALGEBRA 1 and 2"],
     photo: "/teachers/Mohamed-El-Kahky/picture.png",
     qualifications: [
       "Faculty of Education – Major in Mathematics"
