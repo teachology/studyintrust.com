@@ -12,6 +12,22 @@ export interface Teacher {
 
 export const teachers: Teacher[] = [
   {
+    id: "Mohamed-El-Kahky",
+    name: "Mohamed El Kahky",
+    subjects: ["SATو ACT SUBJECT TEST LEVEL1&2, EST SUBJECT TEST LEVEL 1&2, EST1, ACT1, AP CALCULUS AB, PRE CALCULUS, ALGEBRA 1 and 2"],
+    photo: "/teachers/Mohamed-El-Kahky/picture.png",
+    qualifications: [
+      "Faculty of Education – Major in Mathematics"
+    ],
+    experience: "30 years",
+    philosophy: " ",
+    specializations: [
+      "Programming and Computer Science"
+    ],
+    achievements: ["Executive Director of Trust Center, With 35 years of experience in education, including 25 years in the American education system, Mr. El Kahky is the author of over 30 specialized mathematics books covering various curricula"
+    ]
+  },
+  {
     id: "Ahmed-Ayman-Ali",
     name: "Ahmed Ayman Ali",
     subjects: ["Programming and Computer Science"],
