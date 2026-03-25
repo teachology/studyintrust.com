@@ -15,7 +15,7 @@ export const teachers: Teacher[] = [
     id: "Mohamed-El-Kahky",
     name: "Mohamed El Kahky",
     subjects: ["SAT", "ACT SUBJECT TEST LEVEL1&2", "EST SUBJECT TEST LEVEL 1&2", "EST1", "ACT1", "AP CALCULUS AB", "PRE CALCULUS", "ALGEBRA 1 and 2"],
-    photo: "/teachers/Mohamed-El-Kahky/picture.png",
+    photo: "/teachers/Mohamed-El-Kahky/picture.jpeg",
     qualifications: [
       "Faculty of Education – Major in Mathematics"
     ],
@@ -442,7 +442,7 @@ export const teachers: Teacher[] = [
     id: "Yehia-Mohamed-Badr",
     name: "Yehia Mohamed Badr",
     subjects: ["SAT Preparation", "IELTS Preparation", "English Conversation Skills"],
-    photo: "/teachers/Yehia-Mohamed-Badr/picture.jpg",
+    photo: "/teachers/Yehia-Mohamed-Badr/picture.jpeg",
     qualifications: [
       "Faculty of Education – English Division - Assiut University"
     ],
@@ -473,6 +473,295 @@ export const teachers: Teacher[] = [
       "Math (IB)",
       "Math (ACT)",
       "Math (SAT)"
+    ],
+    achievements: [
+      " "
+    ]
+  },
+  {
+    id: "Ahmed-El-Mosalamy",
+    name: "Ahmed El Mosalamy",
+    subjects: ["Math"],
+    photo: "/teachers/Ahmed-El-Mosalamy/picture.jpeg",
+    qualifications: [
+      ""
+    ],
+    experience: "",
+    philosophy: " ",
+    specializations: [
+      "Math"
+    ],
+    achievements: [
+      " "
+    ]
+  },
+  {
+    id: "Eman",
+    name: "Eman",
+    subjects: ["Math"],
+    photo: "/teachers/Eman/picture.jpeg",
+    qualifications: [
+      ""
+    ],
+    experience: "",
+    philosophy: " ",
+    specializations: [
+      "Math"
+    ],
+    achievements: [
+      " "
+    ]
+  },
+  {
+    id: "Fathi-Al-Olalmy",
+    name: "Fathi Al Olalmy",
+    subjects: ["Arabic"],
+    photo: "/teachers/Fathi-Al-Olalmy/picture.jpeg",
+    qualifications: [
+      ""
+    ],
+    experience: "",
+    philosophy: " ",
+    specializations: [
+      "Arabic"
+    ],
+    achievements: [
+      " "
+    ]
+  },
+  {
+    id: "Karim-Abd-El-Aziz",
+    name: "Karim Abd El Aziz",
+    subjects: ["English"],
+    photo: "/teachers/Karim-Abd-El-Aziz/picture.jpeg",
+    qualifications: [
+      ""
+    ],
+    experience: "",
+    philosophy: " ",
+    specializations: [
+      "English"
+    ],
+    achievements: [
+      " "
+    ]
+  },
+  {
+    id: "Khaled-Ryad",
+    name: "Khaled Ryad",
+    subjects: ["Math"],
+    photo: "/teachers/Khaled-Ryad/picture.jpeg",
+    qualifications: [
+      ""
+    ],
+    experience: "",
+    philosophy: " ",
+    specializations: [
+      "Math"
+    ],
+    achievements: [
+      " "
+    ]
+  },
+  {
+    id: "Mohamed-Ali",
+    name: "Mohamed Ali",
+    subjects: ["English"],
+    photo: "/teachers/Mohamed-Ali/picture.jpeg",
+    qualifications: [
+      ""
+    ],
+    experience: "",
+    philosophy: " ",
+    specializations: [
+      "English"
+    ],
+    achievements: [
+      " "
+    ]
+  },
+  {
+    id: "Mohamed-Azmi",
+    name: "Mohamed Azmi",
+    subjects: ["Mechanics"],
+    photo: "/teachers/Mohamed-Azmi/picture.jpeg",
+    qualifications: [
+      ""
+    ],
+    experience: "",
+    philosophy: " ",
+    specializations: [
+      "Mechanics"
+    ],
+    achievements: [
+      " "
+    ]
+  },
+  {
+    id: "Mohamed-Bazaid",
+    name: "Mohamed Bazaid",
+    subjects: ["Chemistry"],
+    photo: "/teachers/Mohamed-Bazaid/picture.jpeg",
+    qualifications: [
+      ""
+    ],
+    experience: "",
+    philosophy: " ",
+    specializations: [
+      "Chemistry"
+    ],
+    achievements: [
+      " "
+    ]
+  },
+  {
+    id: "Mohamed-Hamdy",
+    name: "Mohamed Hamdy",
+    subjects: ["Mechatronics"],
+    photo: "/teachers/Mohamed-Hamdy/picture.jpeg",
+    qualifications: [
+      ""
+    ],
+    experience: "",
+    philosophy: " ",
+    specializations: [
+      "Mechatronics"
+    ],
+    achievements: [
+      " "
+    ]
+  },
+  {
+    id: "Muhammed-Ragab",
+    name: "Muhammed Ragab",
+    subjects: ["English"],
+    photo: "/teachers/Muhammed-Ragab/picture.jpeg",
+    qualifications: [
+      ""
+    ],
+    experience: "",
+    philosophy: " ",
+    specializations: [
+      "English"
+    ],
+    achievements: [
+      " "
+    ]
+  },
+  {
+    id: "Omar-Mohamed",
+    name: "Omar Mohamed",
+    subjects: ["Math"],
+    photo: "/teachers/Omar-Mohamed/picture.jpeg",
+    qualifications: [
+      ""
+    ],
+    experience: "",
+    philosophy: " ",
+    specializations: [
+      "Math"
+    ],
+    achievements: [
+      " "
+    ]
+  },
+  {
+    id: "Osama-El-Taher",
+    name: "Osama El Taher",
+    subjects: ["Chemistry"],
+    photo: "/teachers/Osama-El-Taher/picture.jpeg",
+    qualifications: [
+      ""
+    ],
+    experience: "",
+    philosophy: " ",
+    specializations: [
+      "Chemistry"
+    ],
+    achievements: [
+      " "
+    ]
+  },
+  {
+    id: "Reem-Said",
+    name: "Reem Said",
+    subjects: ["Chemistry"],
+    photo: "/teachers/Reem-Said/picture.jpeg",
+    qualifications: [
+      ""
+    ],
+    experience: "",
+    philosophy: " ",
+    specializations: [
+      "Chemistry"
+    ],
+    achievements: [
+      " "
+    ]
+  },
+  {
+    id: "Sandy-Samy",
+    name: "Sandy Samy",
+    subjects: ["English"],
+    photo: "/teachers/Sandy-Samy/picture.jpeg",
+    qualifications: [
+      ""
+    ],
+    experience: "",
+    philosophy: " ",
+    specializations: [
+      "English"
+    ],
+    achievements: [
+      " "
+    ]
+  },
+  {
+    id: "Tarek-El-Bendary",
+    name: "Tarek El Bendary",
+    subjects: ["Arabic"],
+    photo: "/teachers/Tarek-El-Bendary/picture.jpeg",
+    qualifications: [
+      ""
+    ],
+    experience: "",
+    philosophy: " ",
+    specializations: [
+      "Arabic"
+    ],
+    achievements: [
+      " "
+    ]
+  },
+  {
+    id: "Waleed-Hamza",
+    name: "Waleed Hamza",
+    subjects: ["Math"],
+    photo: "/teachers/Waleed-Hamza/picture.jpeg",
+    qualifications: [
+      ""
+    ],
+    experience: "",
+    philosophy: " ",
+    specializations: [
+      "Math"
+    ],
+    achievements: [
+      " "
+    ]
+  },
+  {
+    id: "Yousry-Mohamed",
+    name: "Yousry Mohamed",
+    subjects: ["English"],
+    photo: "/teachers/Yousry-Mohamed/picture.jpeg",
+    qualifications: [
+      ""
+    ],
+    experience: "",
+    philosophy: " ",
+    specializations: [
+      "English"
     ],
     achievements: [
       " "
