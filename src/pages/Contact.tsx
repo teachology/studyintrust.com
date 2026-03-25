@@ -112,7 +112,7 @@ const Contact = () => {
 
   const handleWhatsAppClick = () => {
     const message = encodeURIComponent("Hello, I'm interested in joining Trust. My name is [Your Name]. I have a question about...");
-    const whatsappUrl = `https://wa.me/971505778230?text=${message}`;
+    const whatsappUrl = `https://wa.me/971561143635?text=${message}`;
     window.open(whatsappUrl, '_blank');
   };
 
@@ -373,7 +373,7 @@ const Contact = () => {
                   <Phone className="h-6 w-6 text-blue-600 mt-1" />
                   <div>
                     <h3 className="font-semibold text-gray-900">Call or WhatsApp</h3>
-                    <p className="text-gray-600">+971 50 577 8230</p>
+                    <p className="text-gray-600">+971 56 114 3635</p>
                     <p className="text-sm text-gray-500">Available: Sunday - Thursday, 9 AM - 9 PM (UTC+4)</p>
                   </div>
                 </div>

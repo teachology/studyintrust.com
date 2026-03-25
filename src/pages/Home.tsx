@@ -5,7 +5,7 @@ import { BookOpen, Users, Award, Clock, ExternalLink, Calendar, Star, MessageCir
 const Home = () => {
   const handleWhatsAppClick = () => {
     const message = encodeURIComponent("Hello, I'm interested in joining Trust. My name is [Your Name]. I have a question about...");
-    const whatsappUrl = `https://wa.me/971505778230?text=${message}`;
+    const whatsappUrl = `https://wa.me/971561143635?text=${message}`;
     window.open(whatsappUrl, '_blank');
   };
 
